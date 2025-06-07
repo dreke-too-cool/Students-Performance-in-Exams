@@ -1,0 +1,25 @@
+# LaTeX intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+
+# Backup files
+*~
+*.bak
+*.bbl
+*.blg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled PDF (optional)
+*.pdf
