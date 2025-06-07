@@ -1,24 +1,37 @@
 # 🎓 Analyzing the Impact of Random Factors on Student Performance
 
-This LaTeX Beamer presentation explores how random variables—like seating arrangement, sleep, and test conditions—can influence student exam scores. The analysis is supported by a regression model and real-world data insights.
+This project explores how unpredictable or "random" factors—such as seating assignment, sleep, and testing conditions—can impact student performance on standardized exams. It includes both a LaTeX Beamer presentation and a Jupyter Notebook that implements a regression model.
 
-## 📊 Features
+---
 
-- 🎯 Focused on the role of **randomness** in student outcomes
-- 📈 Data-driven approach with visual slides
-- 🧠 Clear structure using the **Madrid** Beamer theme
-- 🔍 Incorporates statistical analysis (regression model)
+## 📊 What's Included
 
-## 📂 Files Included
+### 📽️ Beamer Presentation
+A visual overview created using the Madrid Beamer theme. The presentation outlines the problem, methodology, model results, and educational implications.
 
-- `main.tex` — The main presentation source
-- `images/` — Charts and diagrams used in the slides
-- `refs.bib` *(optional)* — Bibliography file (if used)
-- `presentation.pdf` — Compiled PDF (if included)
+- `main.tex`: The LaTeX source file
+- `presentation.pdf`: The compiled version of the slides
+- `/images/`: Any images or charts used in the slides
 
-## 🚀 How to Compile
+### 📓 Jupyter Notebook
+A full Python-based regression model analyzing student performance.
 
-To build the presentation:
+- `student_model.ipynb`: Contains code for:
+  - Data cleaning and preprocessing
+  - Model building (e.g. using `scikit-learn`)
+  - Visualizations and interpretation
+- `/data/student_scores.csv`: Sample dataset used in the notebook
 
+---
+
+## 🔍 Preview
+
+![Slide preview](images/example-slide.png)
+
+---
+
+## 🚀 How to Run
+
+### 🧪 Compile the Slides
 ```bash
 pdflatex main.tex
