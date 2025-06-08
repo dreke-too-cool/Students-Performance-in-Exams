@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dreke-too-cool/Students-Performance-in-Exams/HEAD)
+
 # 🎓 Analyzing the Impact of Random Factors on Student Performance
 
 This project explores how unpredictable or "random" factors—such as seating assignment, sleep, and testing conditions—can impact student performance on standardized exams. It includes both a LaTeX Beamer presentation and a Jupyter Notebook that implements a regression model.
