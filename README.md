@@ -24,12 +24,6 @@ A full Python-based regression model analyzing student performance.
 
 ---
 
-## 🔍 Preview
-
-![Slide preview](images/example-slide.png)
-
----
-
 ## 🚀 How to Run
 
 ### 🧪 Compile the Slides
