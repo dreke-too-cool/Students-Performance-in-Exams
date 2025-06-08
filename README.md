@@ -16,11 +16,11 @@ A visual overview created using the Madrid Beamer theme. The presentation outlin
 ### 📓 Jupyter Notebook
 A full Python-based regression model analyzing student performance.
 
-- `student_model.ipynb`: Contains code for:
+- `AI1_Final_Project.ipynb`: Contains code for:
   - Data cleaning and preprocessing
   - Model building (e.g. using `scikit-learn`)
   - Visualizations and interpretation
-- `/data/student_scores.csv`: Sample dataset used in the notebook
+- `StudentsPerformance.csv`: Dataset used in the notebook
 
 ---
 
