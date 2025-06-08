@@ -35,3 +35,10 @@ A full Python-based regression model analyzing student performance.
 ### 🧪 Compile the Slides
 ```bash
 pdflatex main.tex
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) for the code  
+and [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) for the presentation content.
