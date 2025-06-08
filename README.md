@@ -20,7 +20,7 @@ A full Python-based regression model analyzing student performance.
   - Data cleaning and preprocessing
   - Model building (e.g. using `scikit-learn`)
   - Visualizations and interpretation
-- `StudentsPerformance.csv`: Dataset used in the notebook
+- `StudentsPerformance.csv`: Dataset used in the notebook, can be found on kaggle at: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
 ---
 
